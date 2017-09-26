@@ -16,6 +16,6 @@ Error checking on units
 2. Open cmd (Command Prompt)
 3. Go to directory holding VectorAddition.jar
 4. Type `java -jar VectorDisplacement.jar`
-5. Enter list of vectors, one per line
+5. Enter list of vectors, one per line, following format `10.0m[N45.0E]`
 6. Enter the word `done` when finished inputting vectors
 7. Resulting vector is printed
